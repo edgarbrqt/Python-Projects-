@@ -27,12 +27,9 @@ Outil Excel/VBA d'analyse comparative multi-ETF, développé en préparation d'u
 
 ## Utilisation
 
-1. Ouvrir `ETF_Comparator_Project.xlsm` (macros à activer)
+1. Ouvrir `ETF Comparator Project with VBA` (macros à activer)
 2. Développeur → Macros → lancer `Principal`
 
-## Aperçu
-
-![Tableau comparatif](screenshots/tableau.png)
 
 ---
-*Projet réalisé en autodidacte (VBA) dans le cadre d'une préparation à un entretien de stage en Sales ETF.*
+*Projet réalisé en autodidacte (VBA) dans le cadre d'une préparation à un entretien de stage en Sales ETF chez DWS (Xtrackers).*
